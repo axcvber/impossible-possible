@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    DOMAIN_NAME: 'http://localhost:3000',
+    DOMAIN_NAME: 'https://impossible-possible.net',
     DB_NAME: 'qav',
     DB_URL: 'mongodb+srv://qav:Aezakmi2021@cluster0.2vzdg.mongodb.net/qav?retryWrites=true&w=majority',
     JWT_SECRET: '4jsl35fkwDls21',
